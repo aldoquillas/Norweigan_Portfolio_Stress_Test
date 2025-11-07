@@ -30,4 +30,4 @@ Results quantify joint extreme losses via VaR and Expected Shortfall (ES) at 99.
 Full PDF report: `Norweigan Model Portfolio Stress Test.pdf`
 
 **Author:** Aldo Quillas, CFA®, FRM  
-**Contact:** [LinkedIn](https://linkedin.com/in/aldo-quillas) | [Email](mailto:aldoquillasp@gmail.com)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/aldo-quillas-cfa-frm-5535b854/) | [Email](mailto:aldoquillasp@gmail.com)
